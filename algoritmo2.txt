@@ -1,0 +1,10 @@
+Algoritmo de conversão de temperatura: um algoritmo que converte uma temperatura em Celsius para Fahrenheit ou 
+vice-versa.
+
+1.leia a temperatura;
+2.leia a unidade;
+3.se estiver em graus celsius,
+     coverter para fharenheit, resultado = T(°C) × 9/5 - 32
+4.enquanto estiver em fahrenheit,
+     converter para celsius, resultado = (T(°F) - 32) × 5/9   
+ 5. escreva resultado
